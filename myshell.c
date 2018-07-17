@@ -1,12 +1,9 @@
 // Brandon Piper
-// cmps111 Spring 2005
-// Programming Assignment #1
-//
+// cmps111 
 //
 // myshell.c  
 //    Basic shell that handles standard UNIX commands
 //    file redirection, and piping.  
-//
 
 #include <stdio.h> 
 #include <unistd.h> 
