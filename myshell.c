@@ -1,5 +1,4 @@
 // Brandon Piper
-// cmps111 
 //
 // myshell.c  
 //    Basic shell that handles standard UNIX commands
